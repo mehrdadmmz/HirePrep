@@ -1,2 +1,2 @@
-# AI-Voice-Agent-Interviewer-TS
+# HirePrep
 build in TypeScript
